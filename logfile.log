@@ -1,0 +1,72 @@
+2023-05-20 11:49:37,783 - DEBUG - This is a debug message
+2023-05-20 11:49:37,784 - INFO - This is an info message
+2023-05-20 11:49:37,784 - WARNING - This is a warning message
+2023-05-20 11:49:37,784 - ERROR - This is an error message
+2023-05-20 11:49:37,784 - CRITICAL - This is a critical message
+2023-05-20 11:50:33,008 - DEBUG - This is a debug message
+2023-05-20 11:50:33,008 - INFO - This is an info message
+2023-05-20 11:50:33,008 - WARNING - This is a warning message
+2023-05-20 11:50:33,008 - ERROR - This is an error message
+2023-05-20 11:50:33,009 - CRITICAL - This is a critical message
+2023-05-20 11:50:34,465 - DEBUG - diff parser start
+2023-05-20 11:50:34,465 - DEBUG - line_lengths old: 1; new: 1
+2023-05-20 11:50:34,465 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-05-20 11:50:34,466 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-05-20 11:50:34,466 - DEBUG - diff parser end
+2023-05-20 11:50:35,699 - DEBUG - diff parser start
+2023-05-20 11:50:35,700 - DEBUG - line_lengths old: 1; new: 1
+2023-05-20 11:50:35,700 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-05-20 11:50:35,700 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-05-20 11:50:35,700 - DEBUG - diff parser end
+2023-05-20 11:51:26,104 - DEBUG - diff parser start
+2023-05-20 11:51:26,104 - DEBUG - line_lengths old: 1; new: 1
+2023-05-20 11:51:26,104 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-05-20 11:51:26,105 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-05-20 11:51:26,105 - DEBUG - diff parser end
+2023-05-20 11:51:27,236 - DEBUG - diff parser start
+2023-05-20 11:51:27,236 - DEBUG - line_lengths old: 1; new: 1
+2023-05-20 11:51:27,236 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-05-20 11:51:27,237 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-05-20 11:51:27,237 - DEBUG - diff parser end
+2023-05-20 11:51:31,946 - DEBUG - diff parser start
+2023-05-20 11:51:31,949 - DEBUG - line_lengths old: 1; new: 1
+2023-05-20 11:51:31,949 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-05-20 11:51:31,949 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-05-20 11:51:31,949 - DEBUG - diff parser end
+2023-05-20 11:51:31,951 - DEBUG - diff parser start
+2023-05-20 11:51:31,951 - DEBUG - line_lengths old: 12; new: 15
+2023-05-20 11:51:31,951 - DEBUG - -> code[equal] old[1:11] new[1:11]
+2023-05-20 11:51:31,952 - DEBUG - copy old[1:11] new[1:11]
+2023-05-20 11:51:31,952 - DEBUG - -> code[replace] old[12:12] new[12:15]
+2023-05-20 11:51:31,953 - DEBUG - parse_part from 12 to 15 (to 14 in part parser)
+2023-05-20 11:51:31,953 - DEBUG - diff parser end
+2023-05-20 12:23:37,733 - DEBUG - diff parser start
+2023-05-20 12:23:37,733 - DEBUG - line_lengths old: 1; new: 1
+2023-05-20 12:23:37,734 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-05-20 12:23:37,734 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-05-20 12:23:37,734 - DEBUG - diff parser end
+2023-05-20 12:23:47,296 - DEBUG - diff parser start
+2023-05-20 12:23:47,296 - DEBUG - line_lengths old: 1; new: 1
+2023-05-20 12:23:47,296 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-05-20 12:23:47,297 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-05-20 12:23:47,297 - DEBUG - diff parser end
+2023-05-20 12:23:47,798 - DEBUG - diff parser start
+2023-05-20 12:23:47,798 - DEBUG - line_lengths old: 1; new: 1
+2023-05-20 12:23:47,798 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-05-20 12:23:47,798 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-05-20 12:23:47,799 - DEBUG - diff parser end
+2023-05-20 12:23:49,149 - DEBUG - diff parser start
+2023-05-20 12:23:49,149 - DEBUG - line_lengths old: 1; new: 1
+2023-05-20 12:23:49,149 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-05-20 12:23:49,150 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-05-20 12:23:49,150 - DEBUG - diff parser end
+2023-05-20 12:23:49,379 - DEBUG - diff parser start
+2023-05-20 12:23:49,379 - DEBUG - line_lengths old: 1; new: 1
+2023-05-20 12:23:49,380 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-05-20 12:23:49,380 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-05-20 12:23:49,380 - DEBUG - diff parser end
+2023-05-20 12:25:07,955 - DEBUG - diff parser start
+2023-05-20 12:25:07,955 - DEBUG - line_lengths old: 1; new: 1
+2023-05-20 12:25:07,955 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-05-20 12:25:07,956 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-05-20 12:25:07,956 - DEBUG - diff parser end
