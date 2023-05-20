@@ -34,6 +34,7 @@ peoples_array = []
 def process_abn(abn):
     try:
         result = get_level1(abn).get("results")[0].get("uuid")
+        print(result)
         if result:
             charaty_json = get_level2(result)
             get_peoples(charaty_json, peoples_array)

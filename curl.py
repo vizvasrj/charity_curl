@@ -28,7 +28,7 @@ headers = {
 
 def get_level1(abn: str):
     params = {
-        'search': '24663972307',
+        'search': abn,
     }
     response = requests.get('https://www.acnc.gov.au/api/dynamics/search/charity', params=params, cookies=cookies, headers=headers)
     return response.json()
